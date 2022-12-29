@@ -80,3 +80,4 @@ C:\Users\thonchel\source\repos\IdentityTutorial\IdentityTutorial\obj\Debug\net5.
 C:\Users\thonchel\source\repos\IdentityTutorial\IdentityTutorial\obj\Debug\net5.0\IdentityTutorial.genruntimeconfig.cache
 C:\Users\thonchel\source\repos\IdentityTutorial\IdentityTutorial\obj\Debug\net5.0\ref\IdentityTutorial.dll
 C:\Users\thonchel\source\repos\IdentityTutorial\IdentityTutorial\obj\Debug\net5.0\Razor\Pages\Register.cshtml.g.cs
+C:\Users\thonchel\source\repos\IdentityTutorial\IdentityTutorial\obj\Debug\net5.0\Razor\Pages\Login.cshtml.g.cs
