@@ -1,6 +1,13 @@
-﻿namespace IdentityTutorial.Model
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+
+namespace IdentityTutorial.Model
 {
-    public class AuthDbContext
+    public class AuthDbContext : IdentityDbContext
     {
+        public AuthDbContext(DbContextOptions<AuthDbContext> options): base(options)
+        {
+
+        }
     }
 }
